@@ -1,0 +1,122 @@
+[ {
+  "field" : "idNumber",
+  "label" : "ID Number",
+  "description" : "Unique ID for each patient",
+  "temporal" : "0",
+  "category" : "Demographics",
+  "subcategory" : null,
+  "identifier" : "1"
+}, {
+  "field" : "firstName",
+  "label" : "First Name",
+  "description" : "First Name",
+  "temporal" : "0",
+  "category" : "Demographics",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "surname",
+  "label" : "surname",
+  "description" : "surname",
+  "temporal" : "0",
+  "category" : "Demographics",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "contactNumber",
+  "label" : "Contact Number",
+  "description" : "contactNumber",
+  "temporal" : "0",
+  "category" : "Demographics",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "dob",
+  "label" : "Date of birth",
+  "description" : "Date of birth",
+  "temporal" : "0",
+  "category" : "Demographics",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "sex",
+  "label" : "Sex",
+  "description" : "Sex or gender",
+  "temporal" : "0",
+  "category" : "Demographics",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "batchNumber",
+  "label" : "Batch Number",
+  "description" : "Batch Number",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "dispatchedDateTime",
+  "label" : "Dispatched Date Time",
+  "description" : "Dispatched Date Time",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "sampleStatus",
+  "label" : "Sample Status",
+  "description" : "Sample Status",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "dispatcher",
+  "label" : "Dispatcher",
+  "description" : "Dispatcher",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "dispatchLocation",
+  "label" : "Dispatch Location",
+  "description" : "Dispatch Location",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "collectionDateTime",
+  "label" : "Collection Date and Time",
+  "description" : "Collection Date and Time",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "latitude",
+  "label" : "latitude",
+  "description" : "latitude",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "longitude",
+  "label" : "longitude",
+  "description" : "longitude",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}, {
+  "field" : "locationDetails",
+  "label" : "Location Details",
+  "description" : "Location Details",
+  "temporal" : "1",
+  "category" : "Specimen",
+  "subcategory" : null,
+  "identifier" : "0"
+}
+]
